@@ -4,7 +4,15 @@ import './index.css';
 
 import App from './App';
 
-//TODO: agregar boton para cambiar a iniciar sesion/registrarse, crear pagina para ver mis links y gestionarlos
+/**TODO: 
+ * created by IGNA GARCIA RAVLIC
+ * boton para switchear de tema
+ * crear tema
+ * pagina para ingresar/registrarse
+ * boton para ir a mi perfil
+ * si esta la sesion iniciada y el usuario es el mismo agregar para editar links (ABM)
+ * menu logeado = temas, salir, mi perfil; sin logear = temas, ingresar, registrarse
+ */
 
 ReactDOM.render(
   <React.StrictMode>
