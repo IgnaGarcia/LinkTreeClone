@@ -1,4 +1,4 @@
-const Theme = (primary, primaryAlt, secondary) => {
+const Theme = (primary, secondary) => {
     return {
         colorPrimary: primary,
         colorSecondary: secondary

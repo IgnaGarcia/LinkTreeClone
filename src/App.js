@@ -23,7 +23,7 @@ export default function App() {
             let response = await fetch(url + user);
             let json = await response.json();
             setData(json);
-            setTheme(4);//data.theme
+            setTheme(1);//data.theme
             setThemeLoaded(true);
         })();
     }, [])

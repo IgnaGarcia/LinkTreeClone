@@ -7,7 +7,7 @@ const Link = styled.li`
     background: ${props => props.theme.colorPrimary};
     text-align: center;
     a{
-        color: ${props => props.theme.colorPrimary};
+        color: ${props => props.theme.colorSecondary};
         font-size: 1.5em; 
         display: block;
         padding: 0.75em 0em;
