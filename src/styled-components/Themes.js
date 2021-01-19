@@ -1,7 +1,6 @@
 const Theme = (primary, primaryAlt, secondary) => {
     return {
         colorPrimary: primary,
-        colorPrimaryAlt: primaryAlt,
         colorSecondary: secondary
     }
 }

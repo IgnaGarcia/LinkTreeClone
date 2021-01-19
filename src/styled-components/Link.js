@@ -1,8 +1,8 @@
 import styled from 'styled-components';
-import Themes from './Themes'
 
 const Link = styled.li`
     margin: 1.3em auto;
+    width: 100%;
     border: solid 2.5px ${props => props.theme.colorSecondary};
     background: ${props => props.theme.colorPrimary};
     text-align: center;
