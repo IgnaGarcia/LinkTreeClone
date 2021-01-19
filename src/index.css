@@ -26,8 +26,7 @@ body {
     line-height: 1;
     font-family: Roboto;
     display: block;
-    padding: 3em;
-    background: #212121;
+    padding: 4em 3em;
 }
 ol, ul {
 	list-style: none;
